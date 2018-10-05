@@ -1,0 +1,61 @@
+
+[
+    {
+      "id": 1,
+      "name": "SpongeBob",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
+      "clicked": false
+  
+    },
+    {
+      "id": 2,
+      "name": "Mr. Krabs",
+      "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+      "clicked": false
+     
+    },
+    {
+      "id": 3,
+      "name": "Squidward",
+      "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+      "clicked": false
+    },
+
+
+    {
+      "id": 4,
+      "name": "Captain Planet",
+      "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwig3vDznu7dAhW1Ln0KHYAuDlsQjRx6BAgBEAU&url=https%3A%2F%2Fcaptainplanetfoundation.org%2Fpersons%2Fcaptain-planet%2F&psig=AOvVaw3E1G4pUVZnF5z226h3bcXA&ust=1538792495256989",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Courage",
+      "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi4p-Sin-7dAhW0KX0KHZ0WBNsQjRx6BAgBEAU&url=http%3A%2F%2Fdisney.wikia.com%2Fwiki%2FPepper_Ann_Pearson&psig=AOvVaw2PXIXo0V2-Mo6lAWg2rA6B&ust=1538792596191854",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Sailor Moon",
+      "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwids8W7n-7dAhWQHzQIHfyRCecQjRx6BAgBEAU&url=https%3A%2F%2Fwww.viz.com%2Fsailor-moon&psig=AOvVaw1q0tN3a-zWt0hAWTu_lzcI&ust=1538792648270140",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Arnold",
+      "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj5m9Dkn-7dAhWLFTQIHbgiCRMQjRx6BAgBEAU&url=https%3A%2F%2Fwww.altpress.com%2Fnews%2Fhey_arnold_does_not_take_place_in_new_york_city%2F&psig=AOvVaw0QXjXZn71i_I7eUl0te4E6&ust=1538792733785244",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Jupiter",
+      "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjnisLPn-7dAhWyOH0KHamkCOEQjRx6BAgBEAU&url=http%3A%2F%2Fsailormoon.wikia.com%2Fwiki%2FFile%3ASailor_Jupiter_1.jpg&psig=AOvVaw167pFVdIOXT8ks8cgT-BEd&ust=1538792679792685",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Helga",
+      "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi9gfPzn-7dAhXxGDQIHZCGD6MQjRx6BAgBEAU&url=https%3A%2F%2Fwww.polygon.com%2F2017%2F10%2F6%2F16439384%2Fhey-arnold-helga-pataki-nycc-2017&psig=AOvVaw2qAuoD3VjqEZZMaHCSm6Vy&ust=1538792765187821",
+      "clicked": false
+    }
+  ]

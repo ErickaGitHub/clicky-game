@@ -33,17 +33,3 @@ Attempt to complete homework assignment as described in instructions. If unable 
 
 
 
-
-Hints
-
-
-Begin by building a non-functioning static version for your Clicky Game. Then work on making the game interactive.
-
-
-
-Reminder: Submission on BCS
-
-
-Please submit both the deployed GitHub Pages link to your homework AND the link to the Github Repository!
-
-
